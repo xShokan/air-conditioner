@@ -48,7 +48,7 @@ function Home() {
             component="h1"
             gutterBottom
           >
-            李田所小空调
+            万玮小空调
           </Typography>
           <ProTip />
           <AirConditioner
